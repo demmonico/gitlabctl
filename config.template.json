@@ -1,0 +1,7 @@
+{
+  "gitlab_api_url": "https://gitlab.com/api/v4",
+  "gitlab_group_ids": [
+    {"id": "111", "group": "Gitlab runners group 1"},
+    {"id": "222", "group": "Gitlab runners group 2"}
+  ]
+}
